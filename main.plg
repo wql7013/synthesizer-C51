@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\BaiduNetdiskDownload\单片机课程设计\main.uvproj
+Project File Date:  <unknown>
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling main1.c...
+compiling AT24C16 -.c...
+Target not created
+Build target 'Target 1'
+compiling AT24C16 -.c...
+Target not created
+Rebuild target 'Target 1'
+compiling main1.c...
+compiling AT24C16 -.c...
+Target not created

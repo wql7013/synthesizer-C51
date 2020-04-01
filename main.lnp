@@ -1,0 +1,6 @@
+"main1.obj",
+"AT24C16 -.obj",
+"LCD1602P1Key.obj",
+"common.obj" 
+TO "main" 
+RAMSIZE(256) 
